@@ -1,0 +1,15 @@
+D:\GB\CSharp\Evening\obj\Debug\net8.0\Evening.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\CSharp\Evening\obj\Debug\net8.0\Evening.AssemblyInfoInputs.cache
+D:\GB\CSharp\Evening\obj\Debug\net8.0\Evening.AssemblyInfo.cs
+D:\GB\CSharp\Evening\obj\Debug\net8.0\Evening.csproj.CoreCompileInputs.cache
+D:\GB\CSharp\Evening\obj\Debug\net8.0\Evening.sourcelink.json
+D:\GB\CSharp\Evening\bin\Debug\net8.0\Evening.exe
+D:\GB\CSharp\Evening\bin\Debug\net8.0\Evening.deps.json
+D:\GB\CSharp\Evening\bin\Debug\net8.0\Evening.runtimeconfig.json
+D:\GB\CSharp\Evening\bin\Debug\net8.0\Evening.dll
+D:\GB\CSharp\Evening\bin\Debug\net8.0\Evening.pdb
+D:\GB\CSharp\Evening\obj\Debug\net8.0\Evening.dll
+D:\GB\CSharp\Evening\obj\Debug\net8.0\refint\Evening.dll
+D:\GB\CSharp\Evening\obj\Debug\net8.0\Evening.pdb
+D:\GB\CSharp\Evening\obj\Debug\net8.0\Evening.genruntimeconfig.cache
+D:\GB\CSharp\Evening\obj\Debug\net8.0\ref\Evening.dll
